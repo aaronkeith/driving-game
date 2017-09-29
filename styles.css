@@ -24,7 +24,7 @@ img#kimi-car {
 .controls {
   display: flex;
   justify-content: space-between;
-  border: 4px dotted purple;
+  border: 2px dotted purple;
 }
 
 .arrows {

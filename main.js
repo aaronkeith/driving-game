@@ -22,7 +22,7 @@ window.onload = function()
 
 function draw() {
   context = canvas.getContext("2d")
-  context.clearRect(0, 0, 1900 , 1900 )
+  context.clearRect(0, 0, 1300 , 1300 )
 
   x += (speed*mod) * Math.cos(Math.PI/180 * angle)
   y += (speed*mod) * Math.sin(Math.PI/180 * angle)
